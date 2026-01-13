@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=140&section=header&text=Ece%20Akçay&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
