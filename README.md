@@ -56,7 +56,7 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 
 ### 🚌 Otobuzz — *iOS App*
 <p>
-  <img src="OTOBUZZ_GIF_LINKI" width="260" align="right"/>
+  <img src="https://github.com/user-attachments/assets/f476f2a7-ce93-4b37-8c28-a410241b03c0" width="260" align="right"/>
 </p>
 
 - SwiftUI + MVVM + Combine
