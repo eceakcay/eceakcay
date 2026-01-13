@@ -54,7 +54,7 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 
 ---
 
-### 🅿️ ParkMaster — *Mobile App*
+### 🅿️ Otobuzz — *Mobile App*
 <p>
   <img src="https://user-images.githubusercontent.com/0000000/parkmaster.gif" width="280" align="right"/>
 </p>
@@ -96,10 +96,11 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://eceakcay.github.io">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/eceakcay">LinkedIn</a> •
-  <a href="mailto:eceakcay@example.com">Mail</a>
+  <a href="https://eceakcay.github.io">🌐 Portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ece-akçay-388721299/">💼 LinkedIn</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:eceakcay.36@gmail.com">✉️ Mail</a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer"/>
