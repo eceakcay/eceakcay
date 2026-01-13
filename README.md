@@ -91,7 +91,7 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 Minimal, sürdürülebilir ve okunabilir kod odaklı bir geliştirme yaklaşımı.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eceakcay&show_icons=true&theme=graywhite&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eceakcay&show_icons=true&theme=transparent&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eceakcay&theme=graywhite&hide_border=true" height="150"/>
 </p>
 
