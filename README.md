@@ -1,5 +1,3 @@
-## Hi 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=140&section=header&text=Ece%20Akçay&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -17,15 +15,15 @@
 
 ## 👋 About Me
 
-Merhaba, ben **Ece Akçay** 👩‍💻  
-Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygulamalar** geliştiriyorum.
+Hi, I’m **Ece Akçay** 👩‍💻  
+A 4th grade Computer Engineering student passionate about developing **modern, iOS-focused mobile applications**.
 
 - 🍎 Swift, SwiftUI & UIKit  
-- 🧩 MVVM, Clean Architecture, SOLID  
+- 🧩 MVVM, Clean Architecture, SOLID principles  
 - ⚡ Async/Await, Combine  
-- 🎨 Pixel-perfect UI & UX odaklı geliştirme  
+- 🎨 Pixel-perfect UI & user-centric UX  
 
-Şu anda **IBTECH**’te **iOS Developer Intern** olarak aktif projelerde yer alıyorum.
+Currently working as an **iOS Developer Intern at IBTECH**, actively contributing to real-world projects.
 
 ---
 
@@ -44,8 +42,8 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
   <img src="https://user-images.githubusercontent.com/0000000/allercheck.gif" width="280" align="right"/>
 </p>
 
-- OCR ile içerik okuma (VisionKit)
-- OpenFoodFacts API entegrasyonu
+- OCR-based ingredient scanning (VisionKit)
+- OpenFoodFacts API integration
 - SwiftUI + MVVM + Clean Architecture
 
 🔗 https://github.com/eceakcay/AllerCheck
@@ -60,14 +58,13 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 </p>
 
 - SwiftUI + MVVM + Combine
-- Otobüs bileti arama & koltuk seçimi
-- JWT tabanlı kullanıcı oturumu
-- Ödeme sonrası e-posta bildirimi
+- Bus ticket search & seat selection
+- JWT-based secure authentication
+- Post-payment email notifications
 
 🔗 https://github.com/eceakcay/OtobuzzApp
 
 <br clear="right"/>
-
 
 ---
 
@@ -76,9 +73,9 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
   <img src="https://user-images.githubusercontent.com/0000000/newsuikit.gif" width="280" align="right"/>
 </p>
 
-- Programmatic UIKit
+- Fully programmatic UIKit
 - Custom TabBar & Navigation
-- Network & State yönetimi
+- Networking & state management
 
 🔗 https://github.com/eceakcay/NewsUIKit
 
@@ -89,8 +86,10 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eceakcay&theme=graywhite&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=eceakcay&theme=transparent&hide_border=true&v=1" height="170"/>
 </p>
+
+<p align="center"><i>Consistency over intensity.</i></p>
 
 ---
 
@@ -108,9 +107,6 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
   </a>
 </p>
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer"/>
 </p>
-
