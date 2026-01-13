@@ -54,18 +54,20 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 
 ---
 
-### 🅿️ Otobuzz — *Mobile App*
+### 🚌 Otobuzz — *iOS App*
 <p>
-  <img src="https://user-images.githubusercontent.com/0000000/parkmaster.gif" width="280" align="right"/>
+  <img src="OTOBUZZ_GIF_LINKI" width="260" align="right"/>
 </p>
 
-- Rol bazlı kullanıcı sistemi
-- Admin & Dashboard ekranları
-- Flutter ile çok ekranlı yapı
+- SwiftUI + MVVM + Combine
+- Otobüs bileti arama & koltuk seçimi
+- JWT tabanlı kullanıcı oturumu
+- Ödeme sonrası e-posta bildirimi
 
-🔗 https://github.com/eceakcay/ParkMaster
+🔗 https://github.com/mine-kirmaci/OtobuzzApp
 
 <br clear="right"/>
+
 
 ---
 
@@ -86,10 +88,13 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 
 ## 📊 GitHub Analytics
 
+Minimal, sürdürülebilir ve okunabilir kod odaklı bir geliştirme yaklaşımı.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eceakcay&show_icons=true&theme=graywhite&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eceakcay&theme=graywhite&hide_border=true" height="150"/>
 </p>
+
 
 ---
 
