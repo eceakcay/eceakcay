@@ -89,7 +89,7 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eceakcay&theme=transparent&hide_border=true&v=1" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eceakcay&theme=graywhite&hide_border=true" height="150"/>
 </p>
 
 ---
