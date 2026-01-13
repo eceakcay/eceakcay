@@ -64,7 +64,7 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 - JWT tabanlı kullanıcı oturumu
 - Ödeme sonrası e-posta bildirimi
 
-🔗 https://github.com/mine-kirmaci/OtobuzzApp
+🔗 https://github.com/eceakcay/OtobuzzApp
 
 <br clear="right"/>
 
