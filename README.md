@@ -97,10 +97,17 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **iOS odaklı mobil uygul
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://eceakcay.github.io">🌐 Portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ece-akçay-388721299/">💼 LinkedIn</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:eceakcay.36@gmail.com">✉️ Mail</a>
+  <a href="https://eceakcay.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ece-akçay-388721299/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:eceakcay.36@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 
 <p align="center">
