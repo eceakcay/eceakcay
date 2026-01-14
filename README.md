@@ -70,12 +70,15 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
 
 ### 📰 NewsUIKit — *UIKit App*
 <p>
-  <img src="https://user-images.githubusercontent.com/0000000/newsuikit.gif" width="280" align="right"/>
+  <img src="https://github.com/user-attachments/assets/c10c58a5-1e72-49e0-a099-c160c2cda1cd" width="260" align="right"/>
 </p>
 
-- Fully programmatic UIKit
-- Custom TabBar & Navigation
-- Networking & state management
+- Fully programmatic UIKit with Auto Layout
+- MVVM architecture with delegate-based state updates
+- TabBar-based navigation with embedded NavigationControllers
+- RESTful API integration using URLSession
+- Pagination, search and loading state handling
+- Local notifications & app lifecycle management
 
 🔗 https://github.com/eceakcay/NewsUIKit
 
@@ -110,3 +113,5 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer"/>
 </p>
+
+
