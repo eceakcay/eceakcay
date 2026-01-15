@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>iOS & Mobile Developer</strong><br/>
-  Swift • SwiftUI • UIKit • Flutter
+  Swift • SwiftUI • UIKit 
 </p>
 
 <p align="center">
