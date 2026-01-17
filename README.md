@@ -27,7 +27,7 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
 
 ---
 
-## 🛠 Apple-Centric Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=apple,swift,flutter,dart,firebase,nodejs,sqlite,git,github,figma,postman,dotnet" />
