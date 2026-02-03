@@ -69,7 +69,7 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
 
 ---
 
-### 🧙‍♂️ HarryPotterUIKit — UIKit App*
+### 🧙‍♂️ HarryPotterUIKit — *UIKit App*
 <p>
   <img src="https://github.com/user-attachments/assets/98df1577-c2e1-4b9e-81f7-1a66a86dd67b" width="260" align="right"/>
 </p>
