@@ -68,19 +68,20 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
 
 ---
 
-### 📰 NewsUIKit — *UIKit App*
+### 🧙‍♂️ HarryPotterUIKit — UIKit App*
 <p>
-  <img src="https://github.com/user-attachments/assets/c10c58a5-1e72-49e0-a099-c160c2cda1cd" width="260" align="right"/>
+  <img src="https://github.com/user-attachments/assets/98df1577-c2e1-4b9e-81f7-1a66a86dd67b" width="260" align="right"/>
 </p>
 
-- Fully programmatic UIKit with Auto Layout
-- MVVM architecture with delegate-based state updates
-- TabBar-based navigation with embedded NavigationControllers
-- RESTful API integration using URLSession
-- Pagination, search and loading state handling
-- Local notifications & app lifecycle management
+-Fully programmatic UIKit & SnapKit
+-MVVM architecture with async/await networking
+-TabBar-based navigation (Home, Characters, Favorites, Compare)
+-RESTful API integration + local mock server
+-Favorites persistence & state synchronization
+-AI-powered character comparison using Google Gemini
+-Modern dark theme UI inspired by Wizarding World
 
-🔗 https://github.com/eceakcay/NewsUIKit
+🔗 https://github.com/eceakcay/HarryPotterUIKit
 
 <br clear="right"/>
 
