@@ -30,7 +30,7 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,swift,flutter,dart,firebase,nodejs,sqlite,git,github,figma,postman,dotnet" />
+  <img src="https://skillicons.dev/icons?i=apple,swift,figma,git,github,flutter,dart,firebase,nodejs,sqlite,postman,dotnet" />
 </p>
 
 ---
@@ -42,9 +42,10 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
   <img src="https://user-images.githubusercontent.com/0000000/allercheck.gif" width="280" align="right"/>
 </p>
 
-- OCR-based ingredient scanning (VisionKit)
-- OpenFoodFacts API integration
-- SwiftUI + MVVM + Clean Architecture
+- OCR-based ingredient scanning using VisionKit
+- OpenFoodFacts API integration for real-time food data
+- Built with SwiftUI, MVVM & Clean Architecture
+- Focused on accessibility and allergy-safe user experience
 
 🔗 https://github.com/eceakcay/AllerCheck
 
@@ -73,19 +74,13 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
   <img src="https://github.com/user-attachments/assets/98df1577-c2e1-4b9e-81f7-1a66a86dd67b" width="260" align="right"/>
 </p>
 
--Fully programmatic UIKit & SnapKit
-
--MVVM architecture with async/await networking
-
--TabBar-based navigation (Home, Characters, Favorites, Compare)
-
--RESTful API integration + local mock server
-
--Favorites persistence & state synchronization
-
--AI-powered character comparison using Google Gemini
-
--Modern dark theme UI inspired by Wizarding World
+- Fully programmatic UIKit with SnapKit
+- MVVM architecture with async/await networking
+- TabBar-based navigation (Home, Characters, Favorites, Compare)
+- RESTful API integration with local mock server
+- Favorites persistence & state synchronization
+- AI-powered character comparison using Google Gemini
+- Modern dark-theme UI inspired by the Wizarding World
 
 🔗 https://github.com/eceakcay/HarryPotterUIKit
 
