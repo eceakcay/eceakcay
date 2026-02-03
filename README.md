@@ -74,11 +74,17 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
 </p>
 
 -Fully programmatic UIKit & SnapKit
+
 -MVVM architecture with async/await networking
+
 -TabBar-based navigation (Home, Characters, Favorites, Compare)
+
 -RESTful API integration + local mock server
+
 -Favorites persistence & state synchronization
+
 -AI-powered character comparison using Google Gemini
+
 -Modern dark theme UI inspired by Wizarding World
 
 🔗 https://github.com/eceakcay/HarryPotterUIKit
