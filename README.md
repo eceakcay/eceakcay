@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+##  🙋🏻‍♀️ About Me
 
 Hi, I’m **Ece Akçay** 👩🏻‍💻  
 A 4th grade Computer Engineering student passionate about developing **modern, iOS-focused mobile applications**.
