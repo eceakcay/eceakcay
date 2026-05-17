@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>iOS & Mobile Developer</strong><br/>
+  <strong>iOS Developer</strong><br/>
   Swift • SwiftUI • UIKit 
 </p>
 
