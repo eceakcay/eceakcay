@@ -86,15 +86,6 @@ Currently working as an **iOS Developer Intern at IBTECH**, actively contributin
 
 <br clear="right"/>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eceakcay&theme=transparent&hide_border=true&v=1" height="170"/>
-</p>
-
-<p align="center"><i>Consistency over intensity.</i></p>
 
 ---
 
