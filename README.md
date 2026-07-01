@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=18&pause=1200&color=8B8B8B&center=true&vCenter=true&width=420&lines=Apple+Ecosystem+Enthusiast;Clean+Architecture+Advocate;iOS+First+Mindset"/>
 </p>
 
 ---
@@ -23,7 +22,7 @@ A 4th grade Computer Engineering student passionate about developing **modern, i
 - ⚡ Async/Await, Combine  
 - 🎨 Pixel-perfect UI & user-centric UX  
 
-Currently working as an **iOS Developer Intern at IBTECH**, actively contributing to real-world projects.
+Currently working as an **iOS Developer Intern at VAKIFBANK**, actively contributing to real-world projects.
 
 ---
 
