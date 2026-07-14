@@ -42,8 +42,5 @@ Currently working as an **iOS Developer Intern at VAKIFBANK**, actively contribu
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer"/>
-</p>
 
 
