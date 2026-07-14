@@ -16,12 +16,6 @@
 
 Hi, I’m **Ece Akçay** 👩🏻‍💻  
 A 4th grade Computer Engineering student passionate about developing **modern, iOS-focused mobile applications**.
-
-- 🍎 Swift, SwiftUI & UIKit  
-- 🧩 MVVM, Clean Architecture, SOLID principles  
-- ⚡ Async/Await, Combine  
-- 🎨 Pixel-perfect UI & user-centric UX  
-
 Currently working as an **iOS Developer Intern at VAKIFBANK**, actively contributing to real-world projects.
 
 ---
